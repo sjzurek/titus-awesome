@@ -23,6 +23,13 @@ sudo apt install awesome fonts-roboto rofi compton i3lock xclip qt5-style-plugin
 wget -qO- https://git.io/papirus-icon-theme-install | sh
 ```
 
+#### RPM-Based
+
+```
+sudo dnf install awesome google-roboto-fonts rofi compton i3lock xclip qt5-qtstyleplugins materia-gtk-theme lxappearance xbacklight flameshot nautilus xfce4-power-manager pavucontrol NetworkManager polkit-gnome -y
+wget -qO- https://git.io/papirus-icon-theme-install | sh
+```
+
 #### Arch-Based
 
 ```
